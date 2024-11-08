@@ -1,0 +1,48 @@
+body{
+
+background-color: #011F3F;
+
+}
+.container{
+ display: block;
+ margin-left: 35%;
+
+}
+#level-title{
+    font-size: 5rem;
+    color: bisque;
+    text-align: center;
+    font-family: cursive;  
+    margin:  3%;
+    
+}
+.gameOver{
+
+    background-color: red;
+}
+.btn{
+
+    display: inline-block;
+    border: 10px solid black;
+    border-radius: 20%;
+    height: 150px;
+    width: 150px;
+    padding: 2%;
+    margin: 25px;
+    background-color: black;
+}
+
+.green{
+     background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+
+
